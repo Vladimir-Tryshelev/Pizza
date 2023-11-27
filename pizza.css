@@ -1,0 +1,52 @@
+#main1 {
+    font-family: "Arial Black";
+    text-align: center;
+    font-size: 50px;
+}
+h3.block{
+    background-color: azure;
+    font-family: "Columna";
+    font-size: 25px;
+    margin: 10px;
+}
+h2.block{
+    background-color: azure;
+    font-family: "Columna";
+    font-size: 25px;
+    margin: 10px;
+}
+p.block{
+    background-color: azure;
+    font-family: "Columna";
+    font-size: 25px;
+    margin: 10px;
+}
+h4.block{
+    background-color: azure;
+    font-family: "Columna";
+    font-size: 25px;
+    margin: 10px;
+}
+
+h1.block{
+    background-color: azure;
+    font-family: "Columna";
+    font-size: 25px;
+    margin: 10px;
+}
+#up_image{
+    height: 500px;
+    width: 1000px;
+    display: block;
+    margin: 0 auto;
+}
+#small_img{
+    height: 25px;
+    width: 25px;
+}
+#middle_image{
+    height: 500px;
+    width: 1000px;
+    display: block;
+    margin: 0 auto;
+}
